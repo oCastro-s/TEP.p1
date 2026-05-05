@@ -1,2 +1,2 @@
 # TEP.p1
-Atividades do P1 e MiniProjetos
+Repositorio para Atividades de TEP 
